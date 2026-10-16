@@ -1,5 +1,5 @@
 body{
-    font-family:Arial, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #eef2f7;
@@ -12,25 +12,30 @@ header{
     padding: 15px 0;
     text-align: center;
 }
-.nav-list{
+
+.nav-list {
     list-style: none;
     padding: 0;
     text-align: center;
 }
+
 .nav-list li {
     display: inline;
     margin: 0 20px;
 }
+
 .nav-list li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
 }
+
 main {
     padding: 30px;
     text-align: center;
     background-color: #ffffff;
 }
+
 .profile-img {
     width: 150px;
     border-radius: 50%;
