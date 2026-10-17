@@ -7,7 +7,7 @@ body{
 }
 
 header{
-    background-color: #0056b3;
+    background-color: #0fb300;
     color: white;
     padding: 15px 0;
     text-align: center;
@@ -33,7 +33,7 @@ header{
 main {
     padding: 30px;
     text-align: center;
-    background-color: #ffffff;
+    background-color: #ffffffd2;
 }
 
 .profile-img {
@@ -127,7 +127,7 @@ main {
     footer {
         text-align: center;
         padding: 15px;
-        background-color: #0056b3;
+        background-color: #0fb300;
         color: white;
         margin-top: 30px;
         font-weight: bold;
