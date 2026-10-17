@@ -82,7 +82,7 @@ main {
         padding-bottom: 5px;
     }
 
-    .portfolio-item {
+    .portfolio-items {
         display: flex;
         justify-content: center;
         align-items: center;
