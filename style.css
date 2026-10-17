@@ -92,8 +92,8 @@ main {
     }
 
     .portfolio-item img {
-        width: 50%;
-        height: 50%;
+        width: 200px;
+        height: 160px;
         object-fit: cover;
         border-radius: 4px;
         border: 3px solid #004080;
