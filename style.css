@@ -82,10 +82,10 @@ main {
         padding-bottom: 5px;
     }
 
-    .portfolio-items {
+    .portfolio-item {
         display: flex;
         justify-content: center;
-        align-items:  center;
+        align-items: center;
         flex-wrap:wrap;
         gap: 20px;
         margin-top: 20px;
